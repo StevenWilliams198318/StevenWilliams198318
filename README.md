@@ -23,12 +23,12 @@
 
   <h2 align="center">About Me</h2>
   <p>
-    I'm a <strong>Software Engineer, specializing in Smart Contract Engineer and Web3 Development</strong> passionate about decentralized tech, security, and building the future of the internet.
+    I'm a <strong>Software Engineer, specializing in Smart Contract Engineering and Web3 Development</strong>. Passionate about decentralized tech, security, and building the future of the internet.
   </p>
   <ul>
-    <li>👨‍💻 My focus is building secure, scalable, and user-centric Web3, DeFi applications</li>
-    <li>🌍 On a mission to become a globally 🌍 leading Full Stack Web3 Engineer 👨‍💻</li>
-    <li>👯 I will be happy to collaborate in <strong>Web2 Web3 projects</strong></li>
+    <li>My focus is building secure, scalable, and user-centric Web3, DeFi applications</li>
+    <li>On a mission to become a globally 🌍 leading Full Stack Web3 Engineer 👨‍💻</li>
+    <li>👯 Happy to collaborate in <strong>Web2 & Web3 projects</strong></li>
   </ul>
 
   <p>💬 Ask me anything about <strong>Rust, Anchor, Solana, Solidity, Foundry, Ethereum, Python, Vyper, JavaScript, TypeScript, Security &amp; Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Chainlink, Alchemy, IPFS, MetaMask, OpenZeppelin Contracts, and WalletConnect.</strong></p>
