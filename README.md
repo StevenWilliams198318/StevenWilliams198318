@@ -12,26 +12,27 @@
       <a href="https://www.linkedin.com/in/steven-williams-2965431a7/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://x.com/IgrisAshborn" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
       <a href="https://dev.to/igris_ashborn" target="_blank">
         <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
+      </a>
+      <a href="https://x.com/IgrisAshborn" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
     </p>
   </div>
 
   <h2 align="center">About Me</h2>
   <p>
-    I'm a <strong>Software Engineer, specializing in Smart Contract Engineering and Web3 Development</strong>. Passionate about decentralized tech, security, and building the future of the internet.
+    I'm a <strong>Software Engineer</strong>, specializing in <strong> Smart Contract Engineering and Web3 Development</strong> with a background as an <strong> IT Security Engineer </strong>.
+      <p>
+      Passionate about designing, building, and securing blockchain applications across multiple ecosystems, with a focus on smart contract development, decentralized finance (DeFi), NFT projects, and DAO governance systems. My work spans Solana and Ethereum, leveraging frameworks like Anchor and Foundry, and integrating cutting-edge tooling for security audits, decentralized storage, wallet connectivity, and on-chain/off-chain interoperability.
+      </p>
   </p>
   <ul>
     <li>My focus is building secure, scalable, and user-centric Web3, DeFi applications</li>
     <li>On a mission to become a globally 🌍 leading Full Stack Web3 Engineer 👨‍💻</li>
     <li>👯 Happy to collaborate in <strong>Web2 & Web3 projects</strong></li>
   </ul>
-
-  <p>💬 Ask me anything about <strong>Rust, Anchor, Solana, Solidity, Foundry, Ethereum, Python, Vyper, JavaScript, TypeScript, Security &amp; Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Chainlink, Alchemy, IPFS, MetaMask, OpenZeppelin Contracts, and WalletConnect.</strong></p>
 
   <h2 align="center">🚀 Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -51,10 +52,16 @@
     <div style="display: flex; flex-wrap: wrap; gap: 24px;">
       <!-- Cyfrin -->
       <div style="flex: 1; min-width: 250px;">
-        <h3>Cyfrin</h3>
+        <h3>Cyfrin Updraft</h3>
         <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://updraft.cyfrin.io" target="_blank">
-            <img src="https://img.shields.io/badge/Cyfrin%20Updraft-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Cyfrin Updraft Badge" />
+          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dkwh7zfkz5gs21u0rs7tdw1ytjo885fqmajxfxzn67mq2g43ega">
+            <img src="https://img.shields.io/badge/Blockchain%20Basics-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Basics Badge" />
+          </a>
+          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dl1ckfdw6g99twwbvcrggc92060mu54051y0v3jah4dpz5legltt">
+            <img src="https://img.shields.io/badge/Solidity%20Smart%20Contract%20Development-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity Smart Contract Development Badge" />
+          </a>
+          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dl1ckfdw6g99twwbvcrggc92060mu54051y0v3jah4dpz5leglt">
+            <img src="https://img.shields.io/badge/Foundry%20101-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry 101 Badge" />
           </a>
         </div>
       </div>
@@ -62,7 +69,7 @@
       <div style="flex: 1; min-width: 250px;">
         <h3>School of Solana</h3>
         <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://solana.ackee.xyz" target="_blank">
+          <a href="https://github.com/StevenWilliams198318/school_of_solana" target="_blank">
             <img src="https://img.shields.io/badge/School%20of%20Solana-%237357D4.svg?style=for-the-badge&logo=solana&logoColor=white" alt="School of Solana Badge" />
           </a>
         </div>
