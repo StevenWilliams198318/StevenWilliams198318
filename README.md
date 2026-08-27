@@ -1,127 +1,268 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-  <h1 align="center">👋 Hi, I'm Steven Williams</h1>
-  <p align="center"><strong>Software Engineer | Smart Contract Engineer | Solidity &amp; Foundry, Rust &amp; Anchor</strong></p>
-  <div align="center">
-    <p>
-      <a href="https://www.linkedin.com/in/steven-williams-2965431a7/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://dev.to/igris_ashborn" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
-      </a>
-      <a href="https://x.com/IgrisAshborn" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-    </p>
-  </div>
+# Steven Williams
 
-  <h2 align="center">About Me</h2>
-  <p>
-    I'm a <strong>Software Engineer</strong>, specializing in <strong> Smart Contract Engineering and Web3 Development</strong> with a background as an <strong> IT Security Engineer </strong>.
-      <p>
-      Passionate about designing, building, and securing blockchain applications across multiple ecosystems, with a focus on smart contract development, decentralized finance (DeFi), NFT projects, and DAO governance systems. My work spans Solana and Ethereum, leveraging frameworks like Anchor and Foundry, and integrating cutting-edge tooling for security audits, decentralized storage, wallet connectivity, and on-chain/off-chain interoperability.
-      </p>
-  </p>
-  <ul>
-    <li>My focus is building secure, scalable, and user-centric Web3, DeFi applications</li>
-    <li>On a mission to become a globally 🌍 leading Full Stack Web3 Engineer 👨‍💻</li>
-    <li>👯 Happy to collaborate in <strong>Web2 & Web3 projects</strong></li>
-  </ul>
+## Microsoft 365 | Azure Administrator | Systems Administrator
 
-  <h2 align="center">🚀 Tech Stack</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <p>
-      <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-      <img src="https://img.shields.io/badge/Foundry-%23555555.svg?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry" />
-      <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-      <img src="https://img.shields.io/badge/Anchor-%23005483.svg?style=for-the-badge&logo=solana&logoColor=white" alt="Anchor" />
-      <img src="https://img.shields.io/badge/Vyper-%23734f96.svg?style=for-the-badge&logo=python&logoColor=white" alt="Vyper" />
-      <img src="https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </p>
-  </div>
-  <h2 align="center">🎓 Badges & Certifications</h2>
-    <!-- Flex Container with Columns -->
-    <div style="display: flex; flex-wrap: wrap; gap: 24px;">
-      <!-- Cyfrin -->
-      <div style="flex: 1; min-width: 250px;">
-        <h3>Cyfrin Updraft</h3>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dkwh7zfkz5gs21u0rs7tdw1ytjo885fqmajxfxzn67mq2g43ega">
-            <img src="https://img.shields.io/badge/Blockchain%20Basics-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Basics Badge" />
-          </a>
-          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dl1ckfdw6g99twwbvcrggc92060mu54051y0v3jah4dpz5legltt">
-            <img src="https://img.shields.io/badge/Solidity%20Smart%20Contract%20Development-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity Smart Contract Development Badge" />
-          </a>
-          <a href="https://updraft.cyfrin.io" target="https://ipfs.io/ipns/k51qzi5uqu5dl1ckfdw6g99twwbvcrggc92060mu54051y0v3jah4dpz5leglt">
-            <img src="https://img.shields.io/badge/Foundry%20101-%23000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry 101 Badge" />
-          </a>
-        </div>
-      </div>
-      <!-- Ackee Blockchain Security -->
-      <div style="flex: 1; min-width: 250px;">
-        <h3>School of Solana</h3>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://github.com/StevenWilliams198318/school_of_solana" target="_blank">
-            <img src="https://img.shields.io/badge/School%20of%20Solana-%237357D4.svg?style=for-the-badge&logo=solana&logoColor=white" alt="School of Solana Badge" />
-          </a>
-        </div>
-      </div>
-      <!-- AlchemyLearn -->
-      <div style="flex: 1; min-width: 250px;">
-        <h3>Alchemy Learn</h3>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://www.alchemy.com/learn" target="_blank">
-            <img src="https://img.shields.io/badge/Ethereum%20Developer%20Bootcamp-%230000FF.svg?style=for-the-badge&logo=alchemy&logoColor=white" alt="Alchemy Bootcamp Badge" />
-          </a>
-        </div>
-      </div>
-      <!-- Chainlink -->
-      <div style="flex: 1; min-width: 250px;">
-        <h3>Chainlink</h3>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://chain.link" target="_blank">
-            <img src="https://img.shields.io/badge/Chainlink%20Certified-%230062FF.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink Badge" />
-          </a>
-        </div>
-      </div>
-      <!-- Oracle Academy -->
-      <div style="flex: 1; min-width: 250px;">
-        <h3>Oracle Academy</h3>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-          <a href="https://academy.oracle.com" target="_blank">
-            <img src="https://img.shields.io/badge/Oracle%20Academy-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Academy Badge" />
-          </a>
-        </div>
-      </div>
-    </div>
-  <!-- <h2>📊 GitHub Stats</h2>
-    GitHub Stats Card
-    <img src="https://github-readme-stats.vercel.app/api?username=StevenWilliams198318&show_icons=true&theme=radical" alt="Steven's GitHub Stats" />
-    -->
-  <h2 align="center">🚀 Featured Projects</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 24px;">
-      <!-- Foundry ERC20 Token Project -->
-      <div style="flex: 1; min-width: 250px;">
-        <a href="https://github.com/StevenWilliams198318/FoundryERC20Token" target="_blank">
-          <img src="https://img.shields.io/github/stars/StevenWilliams198318/FoundryERC20Token?style=for-the-badge&label=Foundry%20ERC20%20Token&logo=github" alt="Foundry ERC20 Token GitHub Repo Badge" />
-        </a>
-      </div>
-      <div style="flex: 1; min-width: 250px;">
-        <!-- Smart Contract Lottery Project -->
-        <a href="https://github.com/StevenWilliams198318/0x03-Smart_Contract_Lottery" target="_blank">
-          <img src="https://img.shields.io/github/stars/StevenWilliams198318/0x03-Smart_Contract_Lottery?style=for-the-badge&label=Smart%20Contract%20Lottery&logo=github" alt="Smart Contract Lottery GitHub Repo Badge" />
-        </a>
-      </div>
-    </div>
+IT professional focused on **Azure infrastructure, systems administration, Microsoft 365, identity, networking, automation, and infrastructure as code**.
 
-</body>
-</html>
+I build hands-on infrastructure projects to demonstrate my practical skills across **Azure, Windows, Linux, PowerShell, Bash, Azure CLI, and Bicep**.
 
+---
+
+## About Me
+
+My background is in IT support and systems administration, with experience supporting Microsoft 365 environments, Windows systems, identity, endpoint technologies, and cloud services.
+
+I am currently focusing on building deeper practical expertise in **Microsoft Azure and systems administration**, with an emphasis on infrastructure, networking, security, automation, monitoring, and troubleshooting.
+
+My approach to troubleshooting:
+
+> **Observe → Establish Scope → Identify Root Cause → Mitigate → Remediate → Verify → Document → Prevent**
+
+---
+
+## Azure & Systems Administration
+
+| Area | Technologies |
+|---|---|
+| Cloud | Microsoft Azure |
+| Infrastructure as Code | Bicep |
+| Automation | PowerShell · Bash · Azure CLI |
+| Identity | Microsoft Entra ID |
+| Networking | VNets · Subnets · NSGs · Route Tables · VPN · Bastion |
+| Compute | Azure VMs · Windows Server · Linux |
+| Storage | Azure Storage |
+| Monitoring | Azure Monitor · Log Analytics |
+| Security | RBAC · NSGs · Microsoft Defender |
+| Operating Systems | Windows · Windows Server · Linux · Ubuntu |
+| Microsoft 365 | Exchange Online · SharePoint Online · Teams |
+| Version Control | Git · GitHub |
+
+---
+
+# Azure Projects
+
+My hands-on projects focused on **designing, deploying, configuring, troubleshooting, and documenting Azure infrastructure**.
+
+### Azure Network Infrastructure
+
+**Status:** In Progress
+
+Designing and deploying an Azure network environment including:
+
+- Resource Groups
+- Virtual Networks
+- Subnets
+- Network Security Groups
+- Route Tables
+- Application Security Groups
+- Azure Bastion
+- VPN Gateway
+- Network connectivity testing
+- Security configuration
+- Troubleshooting
+
+**Technologies:** Azure · Bicep · Azure CLI · PowerShell · Bash
+
+---
+
+### Azure Infrastructure as Code 
+
+**Status:** In Progress
+
+Building repeatable Azure infrastructure using **Bicep**.
+
+Focus areas:
+
+- Modular Bicep
+- Parameters
+- Variables
+- Resource dependencies
+- Outputs
+- Reusable modules
+- Deployment validation
+- Azure CLI deployments
+- Infrastructure lifecycle management
+
+**Technologies:** Bicep · Azure CLI · Git
+
+---
+
+### Azure Windows Server 
+
+**Status:** Planned
+
+Hands-on Windows Server administration using Azure Virtual Machines.
+
+Focus areas:
+
+- Azure VMs
+- Windows Server
+- Networking
+- Storage
+- Remote administration
+- User management
+- Security
+- Troubleshooting
+
+---
+
+### Azure Linux Administration 
+
+**Status:** Planned
+
+Linux administration in Azure using Ubuntu.
+
+Focus areas:
+
+- SSH
+- Users and permissions
+- Services
+- Package management
+- Networking
+- Bash
+- System troubleshooting
+- Automation
+
+---
+
+### Azure Monitoring & Troubleshooting
+
+**Status:** Planned
+
+Building an Azure monitoring environment using:
+
+- Azure Monitor
+- Log Analytics
+- Metrics
+- Logs
+- Alerts
+- Diagnostic settings
+- Troubleshooting workflows
+
+---
+
+# Microsoft 365 & Identity
+
+Experience and hands-on work across:
+
+- Microsoft 365 Administration
+- Exchange Online
+- SharePoint Online
+- Microsoft Teams
+- Microsoft Entra ID
+- Microsoft 365 licensing
+- User administration
+- Identity and access management
+- Microsoft Defender
+- Endpoint support
+
+---
+
+# Automation
+
+I use scripting and automation to reduce repetitive administrative tasks and make infrastructure deployments more consistent.
+
+### PowerShell
+
+- Windows administration
+- Microsoft 365 administration
+- Azure administration
+- System configuration
+- Automation
+
+### Bash
+
+- Linux administration
+- File management
+- System automation
+- Deployment workflows
+
+### Azure CLI
+
+- Resource deployment
+- Resource management
+- Configuration
+- Automation
+- Troubleshooting
+
+---
+
+# Current Learning
+
+## Microsoft Azure Administrator
+
+Developing practical skills across the major Azure administration areas:
+
+- Identity and governance
+- Storage
+- Azure compute
+- Virtual networking
+- Monitoring
+- Security
+- Resource management
+- Automation
+
+---
+
+# How I Build My Projects
+
+My Azure projects are designed to demonstrate more than simply deploying a resource.
+
+Each project aims to document:
+
+**Architecture → Deployment → Configuration → Testing → Troubleshooting → Validation → Cleanup**
+
+Projects will include:
+
+- Architecture diagrams
+- Infrastructure as Code
+- Deployment scripts
+- Configuration documentation
+- Testing procedures
+- Troubleshooting notes
+- Lessons learned
+- Cleanup procedures
+
+---
+
+# Earlier Learning & Exploration
+
+Before focusing my GitHub portfolio on Azure and Systems Administration, I explored several areas of software development and Web3 through self-directed learning, coursework, and hands-on exercises.
+
+These repositories represent **learning in progress rather than completed professional projects or certifications**.
+
+Areas I explored include:
+
+- Solidity and smart contract development
+- Foundry
+- Rust
+- Solana and Anchor
+- Web3 development
+- Frontend development
+- ALX software engineering coursework
+
+I have kept these repositories as a record of my earlier learning journey and the skills I explored along the way.
+
+My current focus is **Azure, Systems Administration, Microsoft 365, networking, automation, security, and infrastructure as code**.
+
+These projects remain available, however, this GitHub profile has been refocused toward **Azure and Systems Administration**.
+
+---
+
+# Connect
+
+I'm interested in opportunities involving:
+
+- Azure Administration
+- Systems Administration
+- Cloud Support
+- Microsoft 365 Administration
+- Infrastructure Support
+- IT Support Engineering
+- Cloud Engineering
+
+[LinkedIn](https://www.linkedin.com/in/steven-williams-2965431a7/)
+
+---
+
+> **Building infrastructure. Breaking things safely. Troubleshooting them properly. Documenting what I learn.**
